@@ -1,0 +1,28 @@
+Syntax (void main)
+Variables
+Primitive Datatype
+Operators
+Condition
+Loops
+Cases
+Non-Primitive Datatypes
+
+
+----------Methods: function---------
+return_type (__)method_name(){
+    body
+    }
+1. Datatype method (){
+    Return
+}
+
+2. void method(){
+    print
+}
+
+-- libraries/modules;
+1. collecyions of Variables
+2. functions
+---------date 27-05-2024-------------
+methods  & classes(continue )
+void + static 
