@@ -73,6 +73,11 @@ class conditions {
 // 
 // 
         // --------------DO WHILE-----------//
+        // float a = 0;
+        // do {
+        //     System.out.println(a);
+        //     a++;
+        // } while (a <= 15);
         float a = 0;
         do {
             System.out.println(a);
